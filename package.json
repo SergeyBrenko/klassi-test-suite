@@ -24,7 +24,8 @@
   },
   "dependencies": {
     "klassi-js": "larryg01/klassi-js.git",
-    "nyc": "^15.1.0"
+    "nyc": "^15.1.0",
+    "javascript-agent-wdio": "^1.0.1-alpha"
   },
   "nyc": {
     "statements": 80,
